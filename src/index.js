@@ -1,4 +1,4 @@
-export function getFirstSelection() {
+export function getFirstSelection(window) {
   const res = {};
   try {
     if (window.getSelection() && window.getSelection().getRangeAt(0)) {

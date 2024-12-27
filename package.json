@@ -1,0 +1,21 @@
+{
+  "name": "first-selection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "window",
+    "selection",
+    "toString",
+    "range"
+  ],
+  "author": "RyanZhou",
+  "license": "ISC",
+  "description": "获取划线选中的第一个容器的文本内容",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}

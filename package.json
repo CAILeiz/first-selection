@@ -11,6 +11,10 @@
     "toString",
     "range"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CAILeiz/first-selection"
+  },
   "author": "RyanZhou",
   "license": "ISC",
   "description": "获取划线选中的第一个容器的文本内容",
